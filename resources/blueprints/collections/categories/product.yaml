@@ -1,0 +1,5 @@
+title: Product
+tabs:
+  main:
+    display: Main
+    fields: {  }
